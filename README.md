@@ -1,2 +1,2 @@
 # RagnaDreams
-Tradução do emulador rAthena
+Tradução do emulador rAthena para o Portugues BR.
